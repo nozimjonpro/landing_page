@@ -20,7 +20,7 @@ function Community() {
         >
           Biz insonlar rejalashtirgan ishlarimizni o&apos;z vaqtida qilishni
           xohlaymiz. Qancha yumushimizni erta yakunlasak va bizning bisotimizda
-          yana ham qo&apos;shimcha bo'sh vaqtimiz bo&apos;lishini bilish
+          yana ham qo&apos;shimcha bo&apos;sh vaqtimiz bo&apos;lishini bilish
           hissiyotiga ega bo&apos;lishimiz qanchalar yoqimli!
         </p>
         <div className="w-full relative">
