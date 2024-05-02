@@ -1,0 +1,33 @@
+export { default as AboutVideo } from "./aboutVideo.png";
+export { default as HomeDoctor } from "./homeDoctor.png";
+export { default as HomeWaiter } from "./homeWaiter.png";
+export { default as HomeResPhone } from "./homeResPhone.png";
+export { default as HomeMedPhone } from "./homeMedPhone.png";
+export { default as ProblemMan } from "./problemMan.png";
+export { default as Logo } from "./Logo.svg";
+export { default as HomeFamPhone } from "./homeFamPhone.png";
+export { default as Android } from "./android.svg";
+export { default as Ios } from "./ios.svg";
+export { default as PartnerSoy } from "./PartnerSoy.jpg";
+export { default as PartnerAmarant } from "./PartnerAmarant.jpeg";
+export { default as PartnerRamiz } from "./PartnerRamiz.png";
+export { default as Med1 } from "./med1.jpg";
+export { default as Med2 } from "./med2.jpg";
+export { default as Med3 } from "./med3.jpg";
+export { default as SariqBola } from "./sariqBola.svg";
+export { default as Shokhrukhan } from "./shokhurukhan.svg";
+export { default as Ziyoda } from "./ziyoda.svg";
+export { default as Shukurullo } from "./shukurullo.svg";
+export { default as Galochka } from "./Frame.svg";
+
+// Icons
+export { default as ArrowDown } from "./icons/ArrowDown.svg";
+export { default as UzFlag } from "./icons/UzFlag.svg";
+export { default as RuFlag } from "./icons/RuFlag.svg";
+export { default as Check } from "./icons/Check.svg";
+export { default as Play } from "./icons/Play.svg";
+export { default as Arrow } from "./icons/Arrow.svg";
+export { default as UserLogin } from "./icons/UserLogin.svg";
+export { default as Checklist } from "./icons/Checklist.svg";
+export { default as Shield } from "./icons/Shield.svg";
+export { default as CreditCard } from "./icons/CreditCard.svg";

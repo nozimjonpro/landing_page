@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "HelveticaneueCyr";
+  font-weight: 400;
+  src: url("../Fonts/HelveticaNeueCyr-Roman.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaneueCyr";
+  font-weight: 500;
+  src: url("../Fonts/HelveticaNeueCyr-Medium.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "HelveticaneueCyr";
+  font-weight: 700;
+  src: url("../Fonts/HelveticaNeueCyr-Bold.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../Fonts/inter-v13-latin-regular.woff2") format("woff2");
+}
+/* inter-500 - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  src: url("../Fonts/inter-v13-latin-500.woff2") format("woff2");
+}
+/* inter-700 - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../Fonts/inter-v13-latin-700.woff2") format("woff2");
+}
