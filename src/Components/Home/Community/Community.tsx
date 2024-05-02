@@ -11,17 +11,17 @@ function Community() {
           style={{ textAlign: "start" }}
         >
           <span className="text-brand">1SONiA</span> Jamiyatda uchratadigan va
-          ko'p vaqt sarflanadigan mavjud tarmoqli muammolarga intelektual yechim
-          beradi.
+          ko&apos;p vaqt sarflanadigan mavjud tarmoqli muammolarga intelektual
+          yechim beradi.
         </h2>
         <p
           className="common__text lg:mb-11 md:mb-9 sm:mb-6 mb-4 lg:text-xl md:text-lg text-base"
           style={{ textAlign: "start" }}
         >
-          Biz insonlar rejalashtirgan ishlarimizni o'z vaqtida qilishni
+          Biz insonlar rejalashtirgan ishlarimizni o&apos;z vaqtida qilishni
           xohlaymiz. Qancha yumushimizni erta yakunlasak va bizning bisotimizda
-          yana ham qo'shimcha bo'sh vaqtimiz bo'lishini bilish hissiyotiga ega
-          bo'lishimiz qanchalar yoqimli!
+          yana ham qo&apos;shimcha bo'sh vaqtimiz bo&apos;lishini bilish
+          hissiyotiga ega bo&apos;lishimiz qanchalar yoqimli!
         </p>
         <div className="w-full relative">
           <Image

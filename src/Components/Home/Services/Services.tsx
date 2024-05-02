@@ -122,8 +122,8 @@ function Services() {
             style={{ maxWidth: "534px", width: "100%" }}
           >
             Qarindoshlar va yaqinlarni tabriklashga eng zamonaviy yechim.
-            San'atkorlarni birrovga chaqirib o'tirmang, endi hammasini video
-            tabrik orqali qiling!
+            San&apos;atkorlarni birrovga chaqirib o&apos;tirmang, endi hammasini
+            video tabrik orqali qiling!
           </p>
           <div className="md:mt-7 mt-5 w-full flex justify-center lg:mb-14 md:mb-10 sm:mb-7 mb-5">
             <MoreButton handleClick={handleClick} />

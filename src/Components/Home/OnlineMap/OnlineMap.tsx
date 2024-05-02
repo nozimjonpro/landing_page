@@ -8,14 +8,14 @@ function OnlineMap() {
         <div className="flex items-center">
           <div className="max-w-xl pl-16 py-20">
             <h3 className="common__heading mb-2" style={{ textAlign: "start" }}>
-              Online xarita yordamida o’zingizga kerakli servisni toping
+              Online xarita yordamida o&apos;zingizga kerakli servisni toping
             </h3>
             <p
               className="common_text text-start mb-auto"
               style={{ maxWidth: "534px", width: "100%" }}
             >
-              Yoningizda bor restoran va klinikalarni bir joyda ko'ring. Endi
-              eslab o'tirishga xojat yo'q
+              Yoningizda bor restoran va klinikalarni bir joyda ko&apos;ring. Endi
+              eslab o&apos;tirishga xojat yo&apos;q
             </p>
             <div className="mt-7 w-full">
               <Button />
